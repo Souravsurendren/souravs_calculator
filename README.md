@@ -17,6 +17,6 @@ User-friendly button layout for easy input.
 Erase function to delete single digits.
 Clear function to reset the entire input.
 ## Technologies Used
-Flask: A lightweight Python web framework for managing server-side operations.
-HTML/CSS/JavaScript:  Provides the structure and design of the calculator UI and handles button interactions and arithmetic operations.
+    Flask: A lightweight Python web framework for managing server-side operations.
+    HTML/CSS/JavaScript:  Provides the structure and design of the calculator UI and handles button interactions and arithmetic operations.
 

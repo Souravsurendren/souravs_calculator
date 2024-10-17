@@ -1,18 +1,15 @@
 # Basic Calculator
-                This project is a Basic Calculator built using Flask for the backend, with HTML, CSS, and JavaScript for the frontend. It performs basic arithmetic operations like addition, subtraction, multiplication, and division. The design is modern and responsive, ensuring a smooth user experience.
+  This project is a Basic Calculator built using Flask for the backend, with HTML, CSS, and JavaScript for the frontend.
+  It performs basic arithmetic operations like addition, subtraction, multiplication, and division. The design is modern and responsive, ensuring a smooth user experience.
 ## Project Structure
+```
 calculator/
 │
-├── app.py                
-│
-├── static/
-│   ├── css/
-│   │   └── style.css      
-│   └── js/
-│       └── script.js      
+├── app.py                # Main Flask application
 │
 └── templates/
-    └── calculator.html    
+    └── calculator.html    # HTML template for the calculator UI
+```   
 ## Features
 Perform basic arithmetic operations: +, -, ×, and ÷.
 Modern, clean, and responsive UI.
@@ -25,7 +22,7 @@ HTML/CSS: Provides the structure and design of the calculator UI.
 JavaScript: Handles button interactions and arithmetic operations.
 File Descriptions
 ## app.py: 
-      The main Flask application that serves the calculator UI and handles requests.
+The main Flask application that serves the calculator UI and handles requests.
 
 static/css/style.css: The stylesheet containing all the CSS for the layout, styling, and color schemes of the calculator.
 

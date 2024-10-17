@@ -18,15 +18,5 @@ Erase function to delete single digits.
 Clear function to reset the entire input.
 ## Technologies Used
 Flask: A lightweight Python web framework for managing server-side operations.
-HTML/CSS: Provides the structure and design of the calculator UI.
-JavaScript: Handles button interactions and arithmetic operations.
-File Descriptions
-## app.py: 
-The main Flask application that serves the calculator UI and handles requests.
-
-static/css/style.css: The stylesheet containing all the CSS for the layout, styling, and color schemes of the calculator.
-
-static/js/script.js: JavaScript file that contains the dynamic functionality for handling button clicks, updating the display, and performing operations like clear and erase.
-
-templates/calculator.html: HTML file that serves as the UI for the calculator, defining the structure and integration of JavaScript and CSS.
+HTML/CSS/JavaScript:  Provides the structure and design of the calculator UI and handles button interactions and arithmetic operations.
 

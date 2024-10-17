@@ -1,5 +1,5 @@
 Basic Calculator
-This project is a Basic Calculator built using Flask for the backend, with HTML, CSS, and JavaScript for the frontend. It performs basic arithmetic operations like addition, subtraction, multiplication, and division. The design is modern and responsive, ensuring a smooth user experience.
+                This project is a Basic Calculator built using Flask for the backend, with HTML, CSS, and JavaScript for the frontend. It performs basic arithmetic operations like addition, subtraction, multiplication, and division. The design is modern and responsive, ensuring a smooth user experience.
 Project Structure
 graphql
 Copy code
